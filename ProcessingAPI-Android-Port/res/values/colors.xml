@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="smog">#ff464D5C</color>
+    <color name="android_robot">#ffA4C639</color>
+    <color name="pastel_green">#ffD1E29C</color>
+    <color name="decay">#ffE4EBCE</color>
+    <color name="ebonics_444">#ffF0F0F0</color>
+
+</resources>
